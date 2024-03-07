@@ -1,5 +1,6 @@
 ### Hi, I'm Malika!
 
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/Cover Image.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 # 💫 About Me:
 🔭 I’m currently working on Food Delivery App<br>
@@ -8,6 +9,8 @@
 🌱 I’m currently learning System Design<br>
 💬 Ask me about Swift and UX/UI Design<br>
 ⚡ Fun fact: Love to visit museums
+
+
 
 
 ## 🌐 Socials:
