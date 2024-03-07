@@ -1,18 +1,13 @@
-### Hi, I'm Malika!
+### Hi, I'm Malika! 👋  👩🏻‍💻
 
 ![Cover Image](https://github.com/MalikaGzn/MalikaGzn/assets/149378331/ffd0c030-7aff-49fd-b9f5-88a960cf16fe)
 
-
-# 💫 About Me:
 🔭 I’m currently working on Food Delivery App<br>
 👯 I’m looking to collaborate on your open source projects<br>
 🤝 I’m currently looking for remote internship  <br>
 🌱 I’m currently learning System Design<br>
 💬 Ask me about Swift and UX/UI Design<br>
 ⚡ Fun fact: Love to visit museums
-
-
-
 
 ## 🌐 Socials:
 [![Dribbble](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://dribbble.com/MaliGzn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malitechdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/malika-gozikhonova-b44385149) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/malikaGzn) 
