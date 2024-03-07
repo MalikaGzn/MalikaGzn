@@ -1,9 +1,6 @@
 ### Hi, I'm Malika!
 
-<br>
-<div style ="display:flex;" align="center">
-  <img src="[https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM](https://drive.google.com/file/d/1sogWufetqdOGyxAa39N6VEe24h9Kswf3/view?usp=sharing)" style="width:250px"/>
-</div>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Food Delivery App<br>
