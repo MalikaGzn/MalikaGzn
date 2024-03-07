@@ -1,6 +1,6 @@
 ### Hi, I'm Malika! 👋  👩🏻‍💻
 
-![Cover Image](https://github.com/MalikaGzn/MalikaGzn/assets/149378331/ffd0c030-7aff-49fd-b9f5-88a960cf16fe)
+![Cover Image](https://github.com/MalikaGzn/MalikaGzn/assets/149378331/2df95417-969b-473c-832b-225d9ff38ff4)
 
 🔭 I’m currently working on Food Delivery App<br>
 👯 I’m looking to collaborate on your open source projects<br>
