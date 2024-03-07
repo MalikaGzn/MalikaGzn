@@ -2,12 +2,12 @@
 
 ![Cover Image](https://github.com/MalikaGzn/MalikaGzn/assets/149378331/2df95417-969b-473c-832b-225d9ff38ff4)
 
-🔭 I’m currently working on Food Delivery App<br>
-👯 I’m looking to collaborate on your open source projects<br>
-🤝 I’m currently looking for remote internship  <br>
-🌱 I’m currently learning System Design<br>
-💬 Ask me about Swift and UX/UI Design<br>
-⚡ Fun fact: Love to visit museums
+- 🔭 I’m currently working on Food Delivery App<br>
+- 👯 I’m looking to collaborate on your open source projects<br>
+- 🤝 I’m currently looking for remote internship  <br>
+- 🌱 I’m currently learning System Design<br>
+- 💬 Ask me about Swift and UX/UI Design<br>
+- ⚡ Fun fact: Love to visit museums
 
 
 
